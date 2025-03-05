@@ -1,0 +1,1 @@
+void swap_extreme_elements(int*, int);
